@@ -7,7 +7,7 @@ categories: posts
 ---
 
 [React](https://facebook.github.io/react/ "react"), es un framework creado por facebook que
-se enfoca en la creaión de aplicaciones tipo [SPA](https://es.wikipedia.org/wiki/Single-page_application "SPA") y en construcción de interfazes para el usuario, en este tutorial veremos un poco sobre como podemos dar nuestros
+se enfoca en la creación de aplicaciones tipo [SPA](https://es.wikipedia.org/wiki/Single-page_application "SPA") y en construcción de interfazes para el usuario, en este tutorial veremos un poco sobre como podemos dar nuestros
 primeros pasos con este framework, entremos en materia!
 
 ### Flux
