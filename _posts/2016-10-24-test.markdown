@@ -8,6 +8,7 @@ tags:
 - Ios
 - SWIFT
 Field name: 
+layout: post
 ---
 
                           
