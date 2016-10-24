@@ -1,0 +1,14 @@
+---
+title: Introducion a Swift
+date: 2016-10-24 15:41:00 Z
+categories:
+- apps
+- programing
+tags:
+- Ios
+- SWIFT
+---
+
+                          ![ios-6e42f9.jpg](/uploads/ios-6e42f9.jpg)
+
+estoy escribiendo este post :D!

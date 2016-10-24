@@ -1,10 +1,12 @@
 ---
-layout: post
 title: MozDevParty
+date: 2016-02-13 19:00:00 Z
+categories:
+- posts
+layout: post
 cover: moz.png
-date:   2016-02-13 19:00:00
-categories: posts
 ---
+
 ## Desarrollemos con tecnólogias libres
 
 MozDevParty fue un evento realizado en conjunto con las comimunidades [Mozilla El salvador](http://mozillasv.github.io/),[NodeBots El Salvador](http://nodebots-sv.github.io/) y  [Ionic El salvador](https://github.com/ionicsv), el evento tubo lugar en [Hub-170](http://webslinder.com/).
