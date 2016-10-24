@@ -9,6 +9,6 @@ tags:
 - SWIFT
 ---
 
-![ios-6e42f9.jpg](/uploads/ios-6e42f9.jpg)
+                          ![ios-6e42f9.jpg](/uploads/ios-6e42f9.jpg)
 
 estoy escribiendo este post :D!
