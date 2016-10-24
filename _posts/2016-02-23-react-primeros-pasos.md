@@ -1,9 +1,10 @@
 ---
-layout: post
 title: React Primeros pasos
+date: 2016-02-23 19:00:00 Z
+categories:
+- posts
+layout: post
 cover: react.png
-date:   2016-02-23 19:00:00
-categories: posts
 ---
 
 [React](https://facebook.github.io/react/ "react"), es un framework creado por facebook que

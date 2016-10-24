@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Sobre mí
+date: 2016-02-20 19:00:00 Z
+categories:
+- posts
+layout: post
 cover: fire.jpg
-date:   2016-02-20 19:00:00
-categories: posts
 ---
 
 ## Bienvenido a mí Blog!
