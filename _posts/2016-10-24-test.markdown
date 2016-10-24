@@ -9,6 +9,6 @@ tags:
 - SWIFT
 ---
 
-[ios.jpg](https://www.netsolutionsindia.com/blog/wp-content/uploads/2014/07/swift_iOS_app_developers.jpg)
+![ios-6e42f9.jpg](/uploads/ios-6e42f9.jpg)
 
 estoy escribiendo este post :D!
