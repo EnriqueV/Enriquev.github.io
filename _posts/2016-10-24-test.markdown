@@ -1,6 +1,14 @@
 ---
-title: Test
+title: Introducion a IOS
 date: 2016-10-24 15:41:00 Z
+categories:
+- apps
+- programing
+tags:
+- Ios
+- SWIFT
 ---
 
-Hello this is a test
+[ios.jpg](https://www.netsolutionsindia.com/blog/wp-content/uploads/2014/07/swift_iOS_app_developers.jpg)
+
+estoy escribiendo este post :D!
