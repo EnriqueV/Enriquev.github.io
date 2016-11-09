@@ -1,5 +1,5 @@
 ---
-title: Introducion a Swift
+title: TypeScript .
 date: 2016-10-24 15:41:00 Z
 categories:
 - apps
@@ -11,8 +11,4 @@ Field name:
 layout: post
 ---
 
-                          
-
-![ios-6e42f9.jpg](/uploads/ios-6e42f9.jpg)
-
-estoy escribiendo este post :D!
+![ts.jpg](/uploads/ts.jpg)
