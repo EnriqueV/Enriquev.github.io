@@ -93,7 +93,9 @@ Desde nuestro terminal y dentro del directorio donde se encuentre el archivo eje
 
 El resultado sera un archivo **.js** el cual podemos utilizarlo de la forma como conocemos en html.
 
-Este proceso lo realizamos cada vez que hacemos un cambio en nuestro archivo o podemos automatizarlo con una tarea en **Gulp**, eso lo veremos luego!
+Este proceso lo realizamos cada vez que hacemos un cambio en nuestro archivo o podemos automatizarlo con una tarea en **Gulp**, pero eso lo veremos luego!
+
+## hasta la próxima! :D
 
 
 
