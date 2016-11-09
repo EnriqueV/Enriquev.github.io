@@ -82,6 +82,15 @@ Es notorio que al declarar una funcion de clase no es utilizaremos la palabra re
 
 Tenemos una clase llamada **Calculo** con una funcion **contar** el cual retorna una valor al que hemos definido un tipo.
 
+Ya conocemos algunas cosas generales de typeScript, ahora como podemos compilar nuestro código? y verlo en nuestro navegador.
+
+Primero un archivo typeScript se caracteriza por usar la extension **.ts**
+
+Luego podemos compilar de la siguiente manera:
+Desde nuestro terminal y dentro del directorio donde se encuentre el archivo ejecutamos:
+ 
+`tsc nombredelArchivo.ts`
+
 
 
 
