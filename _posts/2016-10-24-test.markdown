@@ -42,9 +42,13 @@ Podemos hacerlo asi:
 
 # Funciones:
  Cuando hablamos de funciones en TypeScript existen varias formas diferentes de definirlas:
+
 * funciones con nombre.
+
 * función anonima o metodo.
+
 * funciones Lambda.
+
 * funciones de clase.
 
 
