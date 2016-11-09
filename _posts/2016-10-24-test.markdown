@@ -1,5 +1,5 @@
 ---
-title: Introducion a Swift
+title: TypeScript  Tipos básicos.
 date: 2016-10-24 15:41:00 Z
 categories:
 - apps
@@ -7,8 +7,13 @@ categories:
 tags:
 - Ios
 - SWIFT
+Field name: 
+layout: post
 ---
 
-                          ![ios-6e42f9.jpg](/uploads/ios-6e42f9.jpg)
+![ts.jpg](/uploads/ts.jpg)
 
-estoy escribiendo este post :D!
+Saludos! 
+Es hora de dar nuestros primeros pasos en con typescript, por ello me tome unos minutos en escribir un poco y compartir algo de lo que e aprendido. 
+Iniciemos con lo que es importante antes de crear nuestro primero código con typescript, que necesitamos?
+
