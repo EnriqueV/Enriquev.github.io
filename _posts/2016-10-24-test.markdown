@@ -25,6 +25,12 @@ Con esto ya tenemos instalado typescript en nuestro equipo y estamos listos para
 
 ## Conozcamos un poco sobre  variables y funciones:
 
+### definición de variables:
+`var nombre: typeScriptType = value`
+
+Vemos algo muy conocido en JavaScript que es  **var** hasta ahi vamos genial, pero que sucede con **typeScriptType** :( en si es algo simple que estamos acostumbrados ver en lenguajes como java, c#. Y es que TypeScript nos permite asignar un tipo a esa variable de forma explicita.
+
+
 
 
  
