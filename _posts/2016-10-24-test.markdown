@@ -56,6 +56,11 @@ Podemos hacerlo asi:
 
 Iniciemos con una función con nombre:
 
+`function mostraTexto( msg:string){
+   content.InnerHTML = msg;
+
+}`
+
 
 
 
