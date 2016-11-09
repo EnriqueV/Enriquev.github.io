@@ -33,7 +33,9 @@ Vemos algo muy conocido en JavaScript que es  **var** hasta ahi vamos genial, pe
 Podemos hacerlo asi:
 
 `var edad: number =23;`
+
 `var nombre: string = 'alguien';`
+
 `var load: boolean = true;`
 
 
