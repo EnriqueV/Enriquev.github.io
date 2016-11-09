@@ -16,7 +16,7 @@ Saludos!
 Es hora de dar nuestros primeros pasos en con typescript, por ello me tome unos minutos en escribir un poco y compartir algo de lo que e aprendido. 
 Iniciemos con lo que es importante antes de crear nuestro primero código con typescript, que necesitamos?
 
-Instalar TypeScript es bastante simple podemos hacerlo desde # NPM usando:
+Instalar TypeScript es bastante simple podemos hacerlo desde  **NPM** usando:
 
 `npm install -g typescript`
 
