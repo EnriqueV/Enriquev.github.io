@@ -41,7 +41,15 @@ Podemos hacerlo asi:
 `var pets: string[] = ['oso', 'roger', 'figalo'];`
 
 # Funciones:
- Cuando hablamos de funciones en TypeScript existen varias formas diferentes de definirlas, para empezar veremos algo a lo que ya estamos acostumbrados y a medida avance iremos viendo otras formas de hacerlo.
+ Cuando hablamos de funciones en TypeScript existen varias formas diferentes de definirlas:
+* funciones con nombre.
+* función anonima o metodo.
+* funciones Lambda.
+* funciones de clase.
+
+
+
+ para empezar veremos algo a lo que ya estamos acostumbrados y a medida avance iremos viendo otras formas de hacerlo.
 
 Iniciemos con una función anonima:
 
