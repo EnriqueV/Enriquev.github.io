@@ -23,7 +23,7 @@ Instalar TypeScript es bastante simple podemos hacerlos desde # NPM usando:
 
 Con esto ya tenemos instalado typescript en nuestro equipo y estamos listos para codear un poco!
 
-## Conozcamos un poco sobre tipos de variables y funciones:
+## Conozcamos un poco sobre  variables y funciones:
 
 
 
