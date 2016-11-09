@@ -7,7 +7,7 @@ categories:
 tags:
 - typescript
 Field name: 
-layout: post
+layout: default
 ---
 
 ![ts.jpg](/uploads/ts.jpg)
@@ -72,6 +72,9 @@ Esta funciones son muy conocidas en lenguajes como **python** o **C#**
 su característica esencial es que no es necesario escribir **return** para que la función devuelva algún valor, explicitamente una función **Lambda** siempre retornara un valor.
 
 ` var contar = (x: number, y: number) => x+y;`
+
+## funciones de clase:
+
 
 
 
