@@ -80,6 +80,8 @@ Es notorio que al declarar una funcion de clase no es utilizaremos la palabra re
    contar(x:number; y: number;) number{ return x+y;}
 }`
 
+Tenemos una clase llamada **Calculo** con una funcion **contar** el cual retorna una valor al que hemos definido un tipo.
+
 
 
 
