@@ -1,5 +1,5 @@
 ---
-title: TypeScript  Tipos básicos.
+title: TypeScript   Tipos básicos.
 date: 2016-10-24 15:41:00 Z
 categories:
 - apps
