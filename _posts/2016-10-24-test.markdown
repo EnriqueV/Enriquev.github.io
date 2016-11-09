@@ -5,8 +5,7 @@ categories:
 - apps
 - programing
 tags:
-- Ios
-- SWIFT
+- typescript
 Field name: 
 layout: post
 ---
