@@ -67,6 +67,12 @@ Tenemos algo simple, lo unico diferente es que recibe un parametro tipado y hemo
 
  En esta la diferencia es que pueden asignarse tipos en los argumentos y en el resultado de la función.
 
+## funciones Lambda:
+Esta funciones son muy conocidas en lenguajes como **python** o **C#**
+su característica esencial es que no es necesario escribir **return** para que la función devuelva algún valor, explicitamente una función **Lambda** siempre retornara un valor.
+
+` var contar = (x: number, y: number) => x+y;`
+
 
 
 
