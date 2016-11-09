@@ -74,6 +74,11 @@ su característica esencial es que no es necesario escribir **return** para que 
 ` var contar = (x: number, y: number) => x+y;`
 
 ## funciones de clase:
+Es notorio que al declarar una funcion de clase no es utilizaremos la palabra reservada **function** con esto vemos un claro ejemplo de cambio en la sintaxis.
+
+` class Calculo{
+   contar(x:number; y: number;) number{ return x+y;}
+}`
 
 
 
