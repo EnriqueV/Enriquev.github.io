@@ -42,16 +42,19 @@ Podemos hacerlo asi:
 
 # Funciones:
  Cuando hablamos de funciones en TypeScript existen varias formas diferentes de definirlas:
+
 * funciones con nombre.
+
 * función anonima o metodo.
+
 * funciones Lambda.
+
 * funciones de clase.
 
 
+ Para inciar veremos algo a lo que ya estamos acostumbrados y a medida avance iremos viendo otras formas de hacerlo.
 
- para empezar veremos algo a lo que ya estamos acostumbrados y a medida avance iremos viendo otras formas de hacerlo.
-
-Iniciemos con una función anonima:
+Iniciemos con una función con nombre:
 
 
 
