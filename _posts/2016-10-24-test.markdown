@@ -95,7 +95,7 @@ El resultado sera un archivo **.js** el cual podemos utilizarlo de la forma como
 
 Este proceso lo realizamos cada vez que hacemos un cambio en nuestro archivo o podemos automatizarlo con una tarea en **Gulp**, pero eso lo veremos luego!
 
-## hasta la proxima! :D
+## hasta la próxima! :D
 
 
 
