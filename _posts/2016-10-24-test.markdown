@@ -38,6 +38,10 @@ Podemos hacerlo asi:
 
 `var load: boolean = true;`
 
+`var pets: string[] = ['oso', 'roger', 'figalo'];`
+
+
+
 
 
 
