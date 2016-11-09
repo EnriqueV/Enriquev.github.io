@@ -62,6 +62,10 @@ Tenemos algo simple, lo unico diferente es que recibe un parametro tipado y hemo
 
 ## función anonima:
 
+`var contar = function(x: number, y: number): number { return x+y; }`
+
+ En esta la diferencia es que pueden asignarse tipos en los argumentos y en el resultado de la función.
+
 
 
 
