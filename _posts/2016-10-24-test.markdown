@@ -56,7 +56,8 @@ Podemos hacerlo asi:
 
 Iniciemos con una función con nombre:
 
-`function mostraTexto( msg:string){content.InnerHTML =msg;}`
+`function mostraTexto( msg:string)
+{content.InnerHTML =msg;}`
 
 Tenemos algo simple, lo unico diferente es que recibe un parametro tipado y hemos cerrado nuestra función a que solo recibirá valores tipo **string** algo diferente no pasara en ella, y luego actualizara el contenido utilizando elementos del **DOM** en nuestro html.
 
