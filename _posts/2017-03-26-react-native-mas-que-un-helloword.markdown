@@ -5,9 +5,9 @@ date: 2017-03-26 01:41:00 Z
 
 Saludos! luego desde un tiempo de no escribir nada, me tomo un tiempo a manera de quitar el estrés y darle de lleno a nuevas tecnologías. empecemos con un ejemplo basico en react native.
 
-react native es framework creado por **facebook, **que nos permite crear aplicaciones nativas usando javascript y react. 
+react native es framework creado por **facebook**, que nos permite crear aplicaciones nativas usando javascript y react.
 
-una diferencia de **react native **es que no creamos una web app, o una aplicación híbrida, sino una aplicación nativa como lo haríamos con swift, java objective C.
+una diferencia de **react native **es que no creamos una web app, o una aplicación híbrida, sino una aplicación nativa como lo haríamos con swift, java, objective C.
 
 Instalar react:
 
