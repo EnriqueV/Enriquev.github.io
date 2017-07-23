@@ -4,7 +4,8 @@ date: 2017-07-23 16:59:00 Z
 ---
 
 
-El pasado 20, 21, 22,23 de julio 2017, mozillians de centro ![ecsl.jpg](/uploads/ecsl.jpg)America, nos encontramos en Costa Rica, una de las mejores experiencias, reunirnos en el en Encuentro Centro Americano de software libre #ECSL2017, por parte de mozilla centro America, impartimos talleres y charlas, las cuales hago una pequeña reseña.
+![ecsl.jpg](/uploads/ecsl.jpg)
+El pasado 20, 21, 22,23 de julio 2017, mozillians de Centro America, nos encontramos en Costa Rica, una de las mejores experiencias, reunirnos en el en Encuentro Centro Americano de software libre #ECSL2017, por parte de mozilla centro America, impartimos talleres y charlas, las cuales hago una pequeña reseña.
 
 Abrimos el evento con la participación de Mozilla El salvador, lo cual fui yo quien inicio con la charla de ##Rust y el futuro de los sistemas, una charla de manera introductoria a Rust y conocer acerca de este grandioso lenguaje!
 Luego fue el turno de Carlos Carcamo (https://github.com/carloscarcamo), con charla sobre introduccion de RUST, el cual mostro sintaxis, variables, estructura y en general todo lo que se necesita para dar nuestros primeros pasos.
